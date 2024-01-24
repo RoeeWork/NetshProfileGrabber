@@ -1,3 +1,3 @@
-Saves windows profiles with netsh to "output" directory.
+please unzip the .zip folder before using!
 
-each time you open the .exe file the program will create a new directory in "output" and save the netsh profile information in a .txt file.
+each time you open the .exe file the program will create a new directory in "output" and save the netsh profile information in in a .txt file for each wifi profile.
